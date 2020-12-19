@@ -1,1 +1,2 @@
+# New promot
 PS1="node0:~$ "
