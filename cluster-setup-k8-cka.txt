@@ -1,0 +1,6 @@
+# Custom prompt
+PS1="Master1:~$ "
+# os
+umane -a
+# update unbuntu
+sudo apt-get update
